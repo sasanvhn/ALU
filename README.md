@@ -1,2 +1,2 @@
 # ALU
- implementing an ALU with verilog
+ verilog code of an ALU 
